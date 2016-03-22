@@ -1,0 +1,108 @@
+.buttons {
+  font-size: 30pt;
+  color: red;
+}
+.navbar{
+  color: red;
+}
+.h1{
+ border: 5px solid black;
+ text-align: center;
+ background-color: #0099FF;
+ text-decoration: underline;
+ font-family: fantasy;
+ margin-top: 100px;
+ font-weight: bolder;
+ font-family: impact;
+ font-size: 50pt;
+ font-variant: normal;
+}
+.h2{
+  border: 4px solid black;
+  text-align: left;
+  width: 500px;
+  height: auto;
+  align-items: flex-end;
+  margin-left: 320px;
+  position: fixed;
+  margin-top: 2%;
+  float; left
+}
+.h2 img {
+  width: 100%;
+  height: 300px;
+  border: 1px grey;
+}
+
+}
+.h3 {
+  text-decoration: underline;
+  font-size: 25pt;
+  border: 3px solid black;
+  align-items: center;
+  margin-left: 320px;
+  position: fixed;
+  margin-top: 2%
+}
+.h4 {
+  font-size: 60pt;
+  font-variant: normal;
+  font-style:
+}
+.col-md-4{
+  margin-top: 35%;
+  border: 3px solid black;
+  border-style: groove;
+  padding: px;
+  width: 20%;
+  height: 400px;
+  background-color: #E8E8E8;
+  font-size: 12pt;
+}
+.col-min {
+    min-width:320px;
+  }
+.col-centered {
+    display:inline-block;
+    float:none;
+    text-align:center;
+    margin-right:-4px;
+  }
+  .row-centered {
+    text-align: center;
+  }
+.paragraph {
+  border: 5px solid black;
+  text-align: center;
+  background-color: #7ebff0;
+  font-family: fantasy;
+  margin-top: 100px;
+  font-weight: bolder;
+  font-family: "comic sans MS";
+  font-size: 16pt;
+  font-variant: normal;
+}
+.contact {
+  border: 18px solid black;
+  text-align: center;
+  background-color: #01df7a;
+  font-family: fantasy;
+  margin-top: 100px;
+  margin-left: 100px;
+  font-weight: lighter;
+  font-family: "sans";
+  font-size: 26pt;
+  font-variant: normal;
+  float: left;
+}
+.primary-text {
+  background-color: white;
+  text-decoration-color: black;
+}
+.secondary-text {
+  background-color: black;
+  text-decoration-color: white;
+}
+.original-text {
+  
+}
